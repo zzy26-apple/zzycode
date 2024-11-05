@@ -1,0 +1,1 @@
+print("hello,world!welcome my buddy zzy~");
